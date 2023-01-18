@@ -4,8 +4,8 @@ namespace MHR_Editor.Common;
 
 public static class PathHelper {
     public const string CHUNK_PATH       = @"V:\MHR\re_chunk_000";
-    public const string ENUM_HEADER_PATH = @"C:\SteamLibrary\common\MonsterHunterRise\Enums_Internal.hpp";
-    public const string STRUCT_JSON_PATH = @"R:\Games\Monster Hunter Rise\RE_RSZ\rszmhrise.json";
+    public const string ENUM_HEADER_PATH = @"C:\Program Files (x86)\Steam\steamapps\common\MonsterHunterRise\Enums_Internal.hpp";
+    public const string STRUCT_JSON_PATH = @"C:\Users\shura\Downloads\RE_RSZ-main.zip\RE_RSZ-main\rszmhrise.json";
     public const string WIKI_PATH        = @"R:\Games\Monster Hunter Rise\Wiki Dump";
     public const string MODS_PATH        = @"R:\Games\Monster Hunter Rise\Mods";
     public const string FLUFFY_MODS_PATH = @"R:\Games\Monster Hunter Rise\modmanager\Games\MHRISE\Mods";
